@@ -1,0 +1,7 @@
+---
+mysql_root_password: "Vndata@!@#$"
+app_user: "vmadmin"
+http_host: "103.147.122.100"
+http_conf: "100.conf"
+http_port: "80"
+disable_default: true
