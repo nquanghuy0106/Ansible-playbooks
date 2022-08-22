@@ -1,0 +1,5 @@
+---
+mysql_root_password: "Vndata@!@#$"
+http_host: "103.147.122.100"
+http_conf: "100.conf"
+http_port: "80"
