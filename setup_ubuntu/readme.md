@@ -1,4 +1,4 @@
-# Initial Server Setup on Ubuntu 18.04
+# Initial Server Setup on Ubuntu
 
 This playbook will execute a initial server setup for Ubuntu 18.04 systems, as explained in the guide on
 [Initial Server Setup Guide for Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-use-ansible-to-automate-initial-server-setup-on-ubuntu-18-04).
@@ -17,8 +17,8 @@ Quick Steps:
 
 ### 1. Obtain the playbook
 ```shell
-git clone https://github.com/do-community/ansible-playbooks.git
-cd ansible-playbooks/setup_ubuntu1804
+git clone
+cd ansible-playbooks/setup_ubuntu
 ```
 
 ### 2. Customize Options
