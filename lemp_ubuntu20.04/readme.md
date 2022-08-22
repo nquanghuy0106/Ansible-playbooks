@@ -19,7 +19,7 @@ Quick Steps:
 ### 1. Obtain the playbook
 ```shell
 git clone
-cd ansible-playbooks/lemp_ubuntu2004
+cd ansible-playbooks/lemp_ubuntu20.04
 ```
 
 ### 2. Customize Options
